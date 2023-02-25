@@ -1,0 +1,5 @@
+.Text {
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: black;
+}

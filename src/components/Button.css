@@ -1,0 +1,19 @@
+.button {
+	background-color: blueviolet;
+	height: 40px;
+	padding: 0 10px;
+	border-radius: 5px;
+	width: 100%;
+	font-size: 16px;
+	color: whitesmoke;
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+	transition: all 0.5s ease;
+    box-shadow: 5px 5px 5px purple;
+}
+
+.button:hover {
+	background-color: #444;
+	color: darkviolet;
+}
